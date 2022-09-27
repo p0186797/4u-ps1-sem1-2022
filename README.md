@@ -106,7 +106,7 @@ The user's life path number is 5.
     
 ---
 
-Inside that file create a class called **SudokuQuestion**.
+Inside that file create a class called **NumberSystemQuestion**.
 
 Write a program that reads two lines from the user. The first line will be some sequence of characters. The second line will be a base number between 2 and 10. Your program outputs if the first line is a valid number in the given base. A number in base n where n is between 2 and 10 is a number that only uses digits 0 to n - 1, inclusive.
 
