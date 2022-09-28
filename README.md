@@ -64,7 +64,7 @@ The user's life path number is 5.
 
 &nbsp;&nbsp; **Sample Input 1**
 
-    11-29-1999
+    29-11-1999
 
 &nbsp;&nbsp; **Sample Output 1**
 
