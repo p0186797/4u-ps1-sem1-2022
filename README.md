@@ -6,7 +6,7 @@ Create a java file called **ProblemSet.java** and upload it to this repo. For ea
 
 Inside that file create a class called **GradeQuestion**.
 
-Write a program that reads grades from the user until the user enters QUIT. It outputs the most frequently occuring letter grade.
+Write a program that reads grades from the user until the user enters QUIT. It outputs the average as a letter grade.
 
 If 80 <= grade <= 100 then the letter grade is A.
 
@@ -28,7 +28,7 @@ If 0 <= grade < 50 then the letter grade is F.
 
 &nbsp;&nbsp; **Sample Output 1**
 
-    F
+    D
 
 &nbsp;&nbsp; **Sample Input 2**
     
