@@ -44,11 +44,11 @@ If 0 <= grade < 50 then the letter grade is F.
    
 ---
 
-Inside that file create a class called **MaxAndMinQuestion**.
+Inside that file create a class called **MaxQuestion**.
 
 Write a program that reads 1 line of input from the user consisting of numbers separated by a space. For example: 231 232 23 565.
 
-Your program outputs 2 lines: the max and min value.
+Your program outputs the maximum value.
 
 &nbsp;&nbsp; **Sample Input 1**
 
@@ -56,7 +56,6 @@ Your program outputs 2 lines: the max and min value.
 
 &nbsp;&nbsp; **Sample Output 1**
 
-    1
     1
 
 &nbsp;&nbsp; **Sample Input 2**
@@ -66,7 +65,6 @@ Your program outputs 2 lines: the max and min value.
 &nbsp;&nbsp; **Sample Output 2**
 
     100
-    1
 
 ---
 
