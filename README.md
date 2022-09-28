@@ -44,30 +44,6 @@ If 0 <= grade < 50 then the letter grade is F.
    
 ---
 
-Inside that file create a class called **MaxQuestion**.
-
-Write a program that reads 1 line of input from the user consisting of numbers separated by a space. For example: 231 232 23 565.
-
-Your program outputs the maximum value.
-
-&nbsp;&nbsp; **Sample Input 1**
-
-    1 1 1 1 1 1 1 1 1 1
-
-&nbsp;&nbsp; **Sample Output 1**
-
-    1
-
-&nbsp;&nbsp; **Sample Input 2**
-
-    10 100 21 1
-
-&nbsp;&nbsp; **Sample Output 2**
-
-    100
-
----
-
 Inside that file create a class called **LifePathQuestion**.
 
 Write a program that reads 1 line of input from the user in the form: DD-MM-YYYY and outputs the user's life path number.
